@@ -1,4 +1,4 @@
-import pydantic
+import pyyaml
 
 
 if __name__ == '__main__':
