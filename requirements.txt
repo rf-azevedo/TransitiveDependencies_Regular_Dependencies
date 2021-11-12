@@ -1,0 +1,1 @@
+git+https://github.com/samuelcolvin/pydantic.git@v0.29
